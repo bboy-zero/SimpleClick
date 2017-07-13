@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+        //this is a sample Android App project
     }
 }
