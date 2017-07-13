@@ -15,6 +15,9 @@ public class MainActivity extends AppCompatActivity {
     EditText etInput;
     ToggleButton tbtn;
 
+
+    //this is a sample Android App project
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,6 +50,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //this is a sample Android App project
     }
 }
